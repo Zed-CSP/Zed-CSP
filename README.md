@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Christopher Peret, -Software Engineer
+# I'm Christopher Peret, <br> -Software Engineer
 
 ## 14 year background in industry automation
  
