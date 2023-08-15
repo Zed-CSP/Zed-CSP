@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zed-CSP&repo=bookSearchEngine-MERN&theme=radical)](https://github.com/Zed-CSP/bookSearchEngine-MERN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zed-CSP&repo=SocialNetwork&theme=radical)](https://github.com/Zed-CSP/SocialNetwork)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zed-CSP&repo=java-jack&theme=radical)](https://github.com/Zed-CSP/java-jack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zed-CSP&repo=java-jack&theme=radical)](https://github.com/Zed-CSP/java-jack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zed-CSP&repo=noteTaker-Express&theme=radical)](https://github.com/Zed-CSP/noteTaker-Express)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zed-CSP&langs_count=10&theme=radical&show_icons=true)
