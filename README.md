@@ -1,6 +1,17 @@
 ### Hi there 👋
 # I'm Christopher Peret, -Software Engineer
 
+## 14 year background in industry automation
+ 
+- 🔭 I’m currently working on Games, WebDev, and Robotics
+- 🌱 I’m currently learning Typescript, Neural Networks, and Algorithms
+- 🤔 I’m looking for help with CODE REVIEWS!
+- 💬 Ask me about Automation
+- ⚡ Fun fact: I'm getting my pilots license!
+- 📫 How to reach me: cperet89@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -53,19 +64,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-UC Berkeley
+![Seal_of_University_of_California,_Berkeley svg](https://github.com/Zed-CSP/Zed-CSP/assets/123341169/2a3565fd-3438-4e9b-b0c7-c8c1114c0d17)
+UC Berkeley <br>
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-## 14 year background in industry automation
- 
-- 🔭 I’m currently working on Games, WebDev, and Robotics
-- 🌱 I’m currently learning Typescript, Neural Networks, and Algorithms
-- 🤔 I’m looking for help with CODE REVIEWS!
-- 💬 Ask me about Automation
-- ⚡ Fun fact: I'm getting my pilots license!
-- 📫 How to reach me: cperet89@gmail.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
