@@ -3,7 +3,7 @@
 
 ## 14 year background in industry automation
  
-- 🔭 I’m currently working on Games, WebDev, and Robotics
+- 🔭 I’m working on Games, WebDev, ML, and Robotics
 - 🌱 I’m currently learning Typescript, Neural Networks, and Algorithms
 - 🤔 I’m looking for help with CODE REVIEWS!
 - 💬 Ask me about Automation
