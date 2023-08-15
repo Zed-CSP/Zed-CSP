@@ -6,7 +6,7 @@
 - 🔭 I’m working on Games, WebDev, Machine Learning, and Robotics
 - 🌱 I’m currently learning Typescript, Neural Networks, and Algorithms
 - 🤔 I’m looking for help with CODE REVIEWS!
-- 💬 Ask me about Automation
+- 💬 Ask me about Automation, Object Orientation, and Data Structures!
 - ⚡ Fun fact: I'm getting my pilots license!
 - 📫 How to reach me: cperet89@gmail.com
 ---
