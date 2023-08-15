@@ -2,6 +2,8 @@
 # I'm Christopher Peret, <br> -Software Engineer
 
 ## 14 year background in industry automation
+
+![Seal_of_University_of_California,_Berkeley svg](https://github.com/Zed-CSP/Zed-CSP/assets/123341169/1e777f16-6ae6-43c5-ba27-eaba5c91c1ef)<b>UC Berkeley</b>
  
 - 🔭 I’m working on Games, WebDev, Machine Learning, and Robotics
 - 🌱 I’m currently learning Typescript, Neural Networks, and Algorithms
@@ -9,13 +11,6 @@
 - 💬 Ask me about Automation, Object Orientation, and Data Structures!
 - ⚡ Fun fact: I'm getting my pilots license!
 - 📫 How to reach me: cperet89@gmail.com
----
-
-![Seal_of_University_of_California,_Berkeley svg](https://github.com/Zed-CSP/Zed-CSP/assets/123341169/1e777f16-6ae6-43c5-ba27-eaba5c91c1ef)<b>UC Berkeley</b>
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 ---
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -68,4 +63,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
 
