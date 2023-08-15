@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zed-CSP&repo=SocialNetwork&theme=radical)](https://github.com/Zed-CSP/SocialNetwork)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zed-CSP&repo=SocialNetwork)](https://github.com/Zed-CSP/SocialNetwork)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zed-CSP&langs_count=10&theme=radical&show_icons=true)
