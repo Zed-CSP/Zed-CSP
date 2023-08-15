@@ -63,8 +63,8 @@
 
 ---
 
-UC Berkeley![Seal_of_University_of_California,_Berkeley svg](https://github.com/Zed-CSP/Zed-CSP/assets/123341169/1e777f16-6ae6-43c5-ba27-eaba5c91c1ef)
- <br>
+![Seal_of_University_of_California,_Berkeley svg](https://github.com/Zed-CSP/Zed-CSP/assets/123341169/1e777f16-6ae6-43c5-ba27-eaba5c91c1ef)UC Berkeley
+
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
