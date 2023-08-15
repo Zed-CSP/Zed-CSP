@@ -18,4 +18,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zed-CSP&repo=java-jack&theme=radical)](https://github.com/Zed-CSP/java-jack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zed-CSP&repo=noteTaker-Express&theme=radical)](https://github.com/Zed-CSP/noteTaker-Express)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&langs_count=10&theme=radical&width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
