@@ -6,8 +6,7 @@
 ![Seal_of_University_of_California,_Berkeley svg](https://github.com/Zed-CSP/Zed-CSP/assets/123341169/1e777f16-6ae6-43c5-ba27-eaba5c91c1ef)<b>UC Berkeley</b>
  
 - 🔭 I’m working on Web Development, Machine Learning, Simulation and Robotics
-- 🌱 I’m currently learning Typescript, Neural Networks, and Algorithms
-- 💬 Ask me about Automation, Object Orientation, and Data Structures!
+- 💬 Ask me about Automation, Machine Learning, Object Orientation, and Data Structures!
 - ⚡ Fun fact: I'm getting my pilots license!
 - 📫 How to reach me: cperet89@gmail.com
 
