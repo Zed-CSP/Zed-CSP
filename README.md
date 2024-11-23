@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Christopher Peret, <br> -Software Engineer & Founder
+# I'm Christopher Peret, <br> -Software Engineer, Founder & Hacker
 
 ## 14 year background in industry automation and HVAC
 
