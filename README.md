@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Christopher Peret, <br> -Software Engineer
+# I'm Christopher Peret, <br> -Software Engineer | Machine Learning Enthusiast
 
 ## 14 year background in industry instrumentation & controls automation
 
