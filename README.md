@@ -5,7 +5,7 @@
 
 ![Seal_of_University_of_California,_Berkeley svg](https://github.com/Zed-CSP/Zed-CSP/assets/123341169/1e777f16-6ae6-43c5-ba27-eaba5c91c1ef)<b>UC Berkeley</b>
  
-- 🔭 Reverse Engineering, PenTesting, Machine Learning, Simulation, Robotics
+- 🔭 Machine Learning, Simulation, Robotics, Reverse Engineering
 - ⚡ Fun fact: I'm getting my pilots license!
 - 📫 How to reach me: cperet89@gmail.com
 
