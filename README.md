@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Christopher Peret, <br> Software Engineer | Machine Learning Enthusiast
 
-## 14 year background in industry instrumentation & controls automation
+## 15 year background in web, ML/AI, and industry instrumentation & controls automation
 
 ![Seal_of_University_of_California,_Berkeley svg](https://github.com/Zed-CSP/Zed-CSP/assets/123341169/1e777f16-6ae6-43c5-ba27-eaba5c91c1ef)<b>UC Berkeley</b>
  
