@@ -1,4 +1,4 @@
-### Hi there 👋
+### https://www.ChrisPeret.Net!
 # I'm Christopher Peret, <br> Software Engineer | Machine Learning Enthusiast
 
 ## 16 year background in web, ML/AI, and industry instrumentation & controls automation
