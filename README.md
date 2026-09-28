@@ -1,5 +1,5 @@
 ### https://www.ChrisPeret.Net!
-# I'm Christopher Peret, <br> Software Engineer | Machine Learning Enthusiast
+# I'm Christopher Peret, <br> Software Architect | Machine Learning & Robotics Enthusiast
 
 ## 16 year background in web, ML/AI, and industry instrumentation & controls automation
 
